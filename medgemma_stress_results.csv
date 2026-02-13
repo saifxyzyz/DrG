@@ -1,0 +1,1881 @@
+participant,exam_type,grade,profile,prompt,recommendation,processing_time
+S1,Midterm 1,78,"Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 103.1 bpm (avg)
+- Heart Rate Variability (RMSSD): 125.4 ms
+- Electrodermal Activity: 0.3259 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.42 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 78.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 103.1 bpm (avg)
+- Heart Rate Variability (RMSSD): 125.4 ms
+- Electrodermal Activity: 0.3259 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.42 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 78.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The heart rate (HR) of 103.1 bpm is elevated, indicating increased sympathetic nervous system activity.
+*   Heart rate variability (HRV) of 125.4 ms is low, suggesting a lack of adaptability and potential stress response.
+*   Electrodermal activity (EDA) of 0.3259 μS is low, indicating reduced physiological arousal.
+*   The overall biological state is one of heightened physiological arousal, consistent with stress.
+
+**Risk Assessment:**
+*   The combination of elevated HR and low HRV suggests a significant risk of performance decline due to sympathetic overdrive.
+*   High risk.
+*   Warning signs include: Elevated heart rate and low heart rate variability.
+
+**Action Plan (Immediate):**
+*   Practice box breathing (inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds) before the exam.
+*   Focus on the physical sensation of the feet on the floor to ground yourself during the exam.
+
+**Action Plan (Long-term):**
+*   Regularly practice mindfulness meditation to improve stress resilience.
+*   Ensure adequate sleep and nutrition to support overall physiological well-being.",52.173261642456055
+S1,Midterm 2,82,"Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 111.0 bpm (avg)
+- Heart Rate Variability (RMSSD): 70.0 ms
+- Electrodermal Activity: 0.1166 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 27.13 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 82.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 111.0 bpm (avg)
+- Heart Rate Variability (RMSSD): 70.0 ms
+- Electrodermal Activity: 0.1166 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 27.13 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 82.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (111.0 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a less resilient physiological response, potentially indicating a high level of stress or anxiety.
+*   The low electrodermal activity (EDA) might indicate a lack of arousal or a non-reactive physiological state, which can sometimes be seen in high stress or even dissociation.
+
+**Risk Assessment:**
+*   Risk Level: High.
+*   Warning Signs: The combination of high heart rate and low heart rate variability points towards significant sympathetic nervous system overdrive, a hallmark of intense stress and anxiety, potentially impacting cognitive function and performance.
+
+**Action Plan (Immediate):**
+*   Perform Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times.
+*   Focus on the Task: Consciously redirect attention to the exam question at hand, minimizing distractions and focusing on the immediate task.
+
+**Action Plan (Long-term):**
+*   Practice Mindfulness Meditation: Regularly practice mindfulness exercises to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure adequate sleep duration and quality to support overall physiological recovery and resilience.",52.096460819244385
+S1,Final,182,"Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 106.1 bpm (avg)
+- Heart Rate Variability (RMSSD): 79.2 ms
+- Electrodermal Activity: 0.1029 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.18 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 182.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 106.1 bpm (avg)
+- Heart Rate Variability (RMSSD): 79.2 ms
+- Electrodermal Activity: 0.1029 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.18 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 182.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (106.1 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a less resilient physiological response, potentially indicating a high level of stress or anxiety.
+*   The low electrodermal activity (EDA) might indicate a lack of arousal or a non-reactive physiological state, which can sometimes be seen in high stress or even dissociation.
+
+**Risk Assessment:**
+*   **Risk Level:** High.
+*   **Warning Signs:** The combination of high heart rate and low heart rate variability points towards significant sympathetic nervous system overdrive, a hallmark of intense stress and anxiety, potentially impacting cognitive function and performance.
+
+**Action Plan (Immediate):**
+*   Perform Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times.
+*   Focus on the Task: Consciously redirect attention to the exam question at hand, minimizing distractions and focusing on the immediate task.
+
+**Action Plan (Long-term):**
+*   Practice Mindfulness Meditation: Regularly engage in short mindfulness exercises to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure adequate sleep duration and quality to support overall physiological recovery and resilience.",52.1388213634491
+S10,Midterm 1,89,"Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 106.6 bpm (avg)
+- Heart Rate Variability (RMSSD): 152.3 ms
+- Electrodermal Activity: 0.2016 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.02 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 89.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 106.6 bpm (avg)
+- Heart Rate Variability (RMSSD): 152.3 ms
+- Electrodermal Activity: 0.2016 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.02 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 89.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (106.6 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The relatively low heart rate variability (152.3 ms) suggests a lack of adaptability and a less resilient physiological response, potentially indicating stress.
+*   The low electrodermal activity (0.2016 μS) indicates a lack of physiological arousal, which can sometimes be associated with stress or relaxation, but in this context, it might also reflect a lack of engagement or a non-reactive state.
+*   The body temperature is within the normal range.
+
+**Risk Assessment:**
+*   The combination of high heart rate and low heart rate variability points towards a significant physiological stress response, indicating a potential risk of performance decline due to stress.
+*   The low EDA might suggest a lack of engagement or a non-reactive state, which could be a warning sign.
+
+**Action Plan (Immediate):**
+*   Practice Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeat 4 times.
+*   Mindful Observation: Focus on the physical sensations of breathing without judgment, noticing the rise and fall of the chest or abdomen.
+
+**Action Plan (Long-term):**
+*   Regular Mindfulness Practice: Engage in daily mindfulness meditation to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure adequate sleep duration and quality to support overall physiological resilience.",52.05215764045715
+S10,Midterm 2,64,"Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 107.4 bpm (avg)
+- Heart Rate Variability (RMSSD): 70.3 ms
+- Electrodermal Activity: 0.1691 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.06 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 64.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 107.4 bpm (avg)
+- Heart Rate Variability (RMSSD): 70.3 ms
+- Electrodermal Activity: 0.1691 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.06 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 64.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (107.4 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a less resilient physiological response, potentially indicating a high level of stress or anxiety.
+*   The low electrodermal activity (EDA) might indicate a lack of arousal or a non-reactive physiological state, which can sometimes be seen in high stress or even dissociation.
+
+**Risk Assessment:**
+*   **Risk Level:** High.
+*   **Warning Signs:** The combination of high heart rate and low heart rate variability points towards significant sympathetic nervous system overdrive, a hallmark of intense stress and anxiety, potentially impacting cognitive function and performance.
+
+**Action Plan (Immediate):**
+*   Practice Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times.
+*   Mindful Observation: Focus on the physical sensations of breathing without judgment, noticing the rise and fall of the chest or abdomen.
+
+**Action Plan (Long-term):**
+*   Regular Mindfulness Practice: Engage in daily mindfulness meditation (5-10 minutes) to cultivate present-moment awareness and reduce reactivity to stressors.
+*   Optimize Sleep Hygiene: Ensure consistent, high-quality sleep (7-9 hours) to support overall physiological regulation and cognitive function.",51.97201752662659
+S10,Final,116,"Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 105.5 bpm (avg)
+- Heart Rate Variability (RMSSD): 82.9 ms
+- Electrodermal Activity: 0.1111 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.33 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 116.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 105.5 bpm (avg)
+- Heart Rate Variability (RMSSD): 82.9 ms
+- Electrodermal Activity: 0.1111 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.33 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 116.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (105.5 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a less resilient physiological response, potentially indicating a high level of stress or anxiety.
+*   The low electrodermal activity (EDA) might indicate a lack of arousal or a non-reactive physiological state, which can sometimes be seen in high stress or even dissociation.
+
+**Risk Assessment:**
+*   **Risk Level:** High.
+*   **Warning Signs:** The combination of high heart rate and low heart rate variability points towards significant sympathetic nervous system overdrive, a hallmark of intense stress and anxiety, potentially impacting cognitive function and performance.
+
+**Action Plan (Immediate):**
+*   Perform Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times.
+*   Focus on the Task: Consciously redirect attention to the exam question at hand, minimizing distractions and focusing on the immediate task.
+
+**Action Plan (Long-term):**
+*   Practice Mindfulness Meditation: Regularly practice mindfulness exercises to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure adequate sleep duration and quality to support overall physiological recovery and resilience.",51.980464458465576
+S2,Midterm 1,82,"Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 111.5 bpm (avg)
+- Heart Rate Variability (RMSSD): 128.7 ms
+- Electrodermal Activity: 0.1645 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 28.69 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 82.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 111.5 bpm (avg)
+- Heart Rate Variability (RMSSD): 128.7 ms
+- Electrodermal Activity: 0.1645 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 28.69 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 82.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (111.5 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a less resilient physiological response, potentially indicating a high level of stress or anxiety.
+*   The low electrodermal activity (EDA) might indicate a lack of arousal or a non-reactive physiological state, which can sometimes be seen in high stress or even dissociation.
+
+**Risk Assessment:**
+*   Risk Level: High.
+*   Warning Signs: The combination of high heart rate and low heart rate variability points towards significant sympathetic nervous system overdrive, a hallmark of intense stress and anxiety, potentially impacting cognitive function and performance.
+
+**Action Plan (Immediate):**
+*   Perform Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times.
+*   Focus on the Task: Consciously redirect attention to the exam question at hand, minimizing distractions and focusing on the immediate task.
+
+**Action Plan (Long-term):**
+*   Practice Mindfulness Meditation: Regularly engage in short mindfulness exercises to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure consistent and adequate sleep to support overall physiological recovery and resilience.",52.15987539291382
+S2,Midterm 2,85,"Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 106.7 bpm (avg)
+- Heart Rate Variability (RMSSD): 82.8 ms
+- Electrodermal Activity: 0.1256 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 27.87 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 85.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 106.7 bpm (avg)
+- Heart Rate Variability (RMSSD): 82.8 ms
+- Electrodermal Activity: 0.1256 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 27.87 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 85.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (106.7 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for a 'fight-or-flight' response.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability in the autonomic nervous system, often associated with stress and potentially impaired cognitive function.
+*   The low electrodermal activity (EDA) might indicate a lack of arousal or a potential issue with the measurement device/technique, but in the context of stress, it can sometimes be seen in high-stress states.
+
+**Risk Assessment:**
+*   **Risk Level:** High.
+*   **Warning Signs:** The combination of high heart rate and low heart rate variability points towards significant sympathetic nervous system dominance, potentially leading to performance impairment and anxiety.
+
+**Action Plan (Immediate):**
+*   Practice Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times before the exam.
+*   Mindful Observation: Focus on the physical sensations of breathing without judgment, noticing the rise and fall of the chest or abdomen, to ground yourself in the present moment.
+
+**Action Plan (Long-term):**
+*   Regular Mindfulness Practice: Engage in daily mindfulness meditation (5-10 minutes) to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure consistent, adequate sleep (7-9 hours) to support overall physiological resilience and cognitive function.",51.908367395401
+S2,Final,180,"Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 119.9 bpm (avg)
+- Heart Rate Variability (RMSSD): 48.7 ms
+- Electrodermal Activity: 0.0783 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 28.18 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 180.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 119.9 bpm (avg)
+- Heart Rate Variability (RMSSD): 48.7 ms
+- Electrodermal Activity: 0.0783 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 28.18 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 180.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (119.9 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a less resilient physiological response, potentially indicating a high level of stress or anxiety.
+*   The low electrodermal activity (EDA) might indicate a lack of arousal or a non-reactive physiological state, which can sometimes be seen in high stress or even dissociation.
+
+**Risk Assessment:**
+*   **Risk Level:** High.
+*   **Warning Signs:** The combination of high heart rate and low heart rate variability points towards significant sympathetic nervous system overdrive, a hallmark of intense stress and anxiety, potentially impacting cognitive function and performance.
+
+**Action Plan (Immediate):**
+*   Perform Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times.
+*   Focus on the Task: Consciously redirect attention to the exam question at hand, minimizing distractions and focusing on the immediate task.
+
+**Action Plan (Long-term):**
+*   Practice Mindfulness Meditation: Regularly engage in short mindfulness exercises to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure consistent and adequate sleep to support overall physiological recovery and resilience.",51.90176701545715
+S3,Midterm 1,77,"Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 105.7 bpm (avg)
+- Heart Rate Variability (RMSSD): 126.0 ms
+- Electrodermal Activity: 0.2366 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.73 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 77.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 105.7 bpm (avg)
+- Heart Rate Variability (RMSSD): 126.0 ms
+- Electrodermal Activity: 0.2366 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.73 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 77.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (105.7 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a less resilient physiological response, potentially indicating a high level of stress or anxiety.
+*   The low electrodermal activity (EDA) might indicate a lack of arousal or a non-reactive physiological state, which can sometimes be seen in high stress or even dissociation.
+
+**Risk Assessment:**
+*   Risk Level: High.
+*   Warning Signs: The combination of high heart rate and low heart rate variability points towards significant sympathetic nervous system overdrive, a hallmark of high stress and potential anxiety.
+
+**Action Plan (Immediate):**
+*   Perform Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeat 4 times.
+*   Focus on the Present: Consciously redirect attention to the immediate task at hand, avoiding dwelling on performance or past/future worries.
+
+**Action Plan (Long-term):**
+*   Practice Mindfulness Meditation: Regularly engage in short mindfulness exercises to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure consistent, adequate sleep to support overall physiological recovery and resilience.",52.03809356689453
+S3,Midterm 2,90,"Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 97.4 bpm (avg)
+- Heart Rate Variability (RMSSD): 73.6 ms
+- Electrodermal Activity: 0.5720 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 28.07 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 90.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 97.4 bpm (avg)
+- Heart Rate Variability (RMSSD): 73.6 ms
+- Electrodermal Activity: 0.5720 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 28.07 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 90.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The heart rate (HR) of 97.4 bpm is slightly elevated, indicating a state of alertness or mild activation.
+*   Heart rate variability (HRV) of 73.6 ms is within the lower end of the normal range, suggesting a potential lack of adaptability or a more reactive nervous system response.
+*   Electrodermal activity (EDA) of 0.5720 μS is low, indicating a lack of physiological arousal or stress response.
+*   The overall biological state suggests a mild level of physiological stress, potentially related to the anticipation or initial stages of the exam.
+
+**Risk Assessment:**
+*   The combination of slightly elevated HR and low EDA could indicate a potential shift towards sympathetic dominance, suggesting a possible increase in stress levels as the exam progresses.
+*   The low HRV might be a sign of a less adaptive response to stress, potentially increasing the risk of performance decline under pressure.
+*   **Risk Level: Medium**
+*   **Warning Signs:** High HR + Low HRV = Sympathetic Overdrive.
+
+**Action Plan (Immediate):**
+*   Practice Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeat 4 times.
+*   Mindful Observation: Focus on the physical sensations of breathing without judgment, noticing the rise and fall of the chest or abdomen.
+
+**Action Plan (Long-term):**
+*   Regular Mindfulness Practice: Engage in daily meditation or mindful exercises to improve stress regulation and emotional resilience.
+*   Prioritize Sleep: Ensure consistent, high-quality sleep (7-9 hours) to support overall physiological recovery and cognitive function.",51.895155906677246
+S3,Final,188,"Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 104.5 bpm (avg)
+- Heart Rate Variability (RMSSD): 73.8 ms
+- Electrodermal Activity: 0.1697 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.51 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 188.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 104.5 bpm (avg)
+- Heart Rate Variability (RMSSD): 73.8 ms
+- Electrodermal Activity: 0.1697 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.51 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 188.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The heart rate (HR) of 104.5 bpm is elevated, indicating increased sympathetic nervous system activity.
+*   Heart rate variability (HRV) of 73.8 ms is low, suggesting a lack of adaptability and potential stress response.
+*   Electrodermal activity (EDA) of 0.1697 μS is low, indicating a lack of physiological arousal.
+*   The overall biological state is one of heightened sympathetic nervous system activation, potentially leading to anxiety or performance anxiety.
+
+**Risk Assessment:**
+*   The combination of elevated HR and low HRV suggests a significant risk of performance impairment due to stress.
+*   High HR + Low HRV = Sympathetic Overdrive.
+
+**Action Plan (Immediate):**
+*   Perform Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeat 4 times.
+*   Focus on the task at hand: Concentrate on the specific question being answered, minimizing distractions.
+
+**Action Plan (Long-term):**
+*   Practice mindfulness meditation regularly to improve stress resilience.
+*   Ensure adequate sleep and nutrition to support overall well-being.",51.76546788215637
+S4,Midterm 1,75,"Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 110.6 bpm (avg)
+- Heart Rate Variability (RMSSD): 149.1 ms
+- Electrodermal Activity: 0.3399 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 25.41 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 75.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 110.6 bpm (avg)
+- Heart Rate Variability (RMSSD): 149.1 ms
+- Electrodermal Activity: 0.3399 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 25.41 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 75.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (110.6 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a less resilient physiological response, potentially indicating a high level of stress or anxiety.
+*   The low electrodermal activity (EDA) might indicate a lack of arousal or a non-reactive physiological state, which can sometimes be seen in high stress or even dissociation.
+
+**Risk Assessment:**
+*   Risk Level: High.
+*   Warning Signs: The combination of high heart rate and low heart rate variability points towards significant sympathetic nervous system overdrive, a hallmark of intense stress and anxiety, potentially impacting cognitive function and performance.
+
+**Action Plan (Immediate):**
+*   Perform Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times.
+*   Focus on the Task: Consciously redirect attention to the exam question at hand, minimizing distractions and focusing on the immediate task.
+
+**Action Plan (Long-term):**
+*   Practice Mindfulness Meditation: Regularly practice mindfulness exercises to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure adequate sleep duration and quality to support overall physiological recovery and resilience.",51.992441177368164
+S4,Midterm 2,77,"Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 94.8 bpm (avg)
+- Heart Rate Variability (RMSSD): 107.9 ms
+- Electrodermal Activity: 0.4967 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.21 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 77.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 94.8 bpm (avg)
+- Heart Rate Variability (RMSSD): 107.9 ms
+- Electrodermal Activity: 0.4967 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.21 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 77.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The heart rate (HR) of 94.8 bpm is slightly elevated, indicating a state of alertness or mild activation.
+*   Heart rate variability (HRV) of 107.9 ms is within the lower end of the normal range, suggesting a potential lack of adaptability or a possible shift towards sympathetic dominance.
+*   Electrodermal activity (EDA) of 0.4967 μS is low, indicating a lack of physiological arousal or stress response.
+*   The overall biological state suggests a mild level of physiological stress, potentially related to the exam situation, but not yet reaching a state of significant distress.
+
+**Risk Assessment:**
+*   The combination of slightly elevated HR and low EDA, along with a potentially low HRV, points towards a potential shift towards sympathetic nervous system dominance, which can be a precursor to more significant stress responses.
+*   **Warning Sign:** The low EDA might indicate a lack of readiness to respond to potential stressors during the exam, potentially impacting performance.
+
+**Action Plan (Immediate):**
+*   Practice Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times before the exam.
+*   Mindful Observation: Focus on the physical sensations of sitting and breathing without judgment, noticing the rise and fall of the chest or abdomen.
+
+**Action Plan (Long-term):**
+*   Regular Mindfulness Practice: Engage in daily mindfulness meditation (5-10 minutes) to improve stress regulation and emotional awareness.
+*   Healthy Lifestyle Habits: Ensure adequate sleep, regular exercise, and a balanced diet to support overall physiological resilience.",51.95277523994446
+S4,Final,149,"Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 92.7 bpm (avg)
+- Heart Rate Variability (RMSSD): 100.1 ms
+- Electrodermal Activity: 0.5262 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 28.38 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 149.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 92.7 bpm (avg)
+- Heart Rate Variability (RMSSD): 100.1 ms
+- Electrodermal Activity: 0.5262 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 28.38 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 149.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The heart rate (HR) of 92.7 bpm is elevated, indicating increased sympathetic nervous system activity.
+*   Heart rate variability (HRV) of 100.1 ms is low, suggesting a lack of adaptability and potential stress response.
+*   Electrodermal activity (EDA) of 0.5262 μS is low, indicating reduced physiological arousal.
+*   The overall biological state is one of heightened physiological arousal, consistent with stress.
+
+**Risk Assessment:**
+*   The combination of elevated HR and low HRV suggests a significant risk of performance decline due to sympathetic overdrive.
+*   High risk.
+*   Warning signs include the elevated heart rate and low heart rate variability.
+
+**Action Plan (Immediate):**
+*   Practice box breathing (inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds) before the exam.
+*   Focus on the physical sensation of the feet on the floor to ground yourself during the exam.
+
+**Action Plan (Long-term):**
+*   Regularly practice mindfulness meditation to improve stress resilience.
+*   Ensure adequate sleep and nutrition to support overall physiological well-being.",51.815021276474
+S5,Midterm 1,67,"Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 108.3 bpm (avg)
+- Heart Rate Variability (RMSSD): 167.4 ms
+- Electrodermal Activity: 0.1473 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.81 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 67.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 108.3 bpm (avg)
+- Heart Rate Variability (RMSSD): 167.4 ms
+- Electrodermal Activity: 0.1473 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.81 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 67.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (108.3 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a less resilient physiological response, potentially indicating a high level of stress or anxiety.
+*   The low electrodermal activity (EDA) might indicate a lack of arousal or a non-reactive physiological state, which can sometimes be seen in high stress or even dissociation.
+
+**Risk Assessment:**
+*   **Risk Level:** High.
+*   **Warning Signs:** The combination of high heart rate and low heart rate variability points towards significant sympathetic nervous system overdrive, a hallmark of intense stress and anxiety, potentially impacting cognitive function and performance.
+
+**Action Plan (Immediate):**
+*   Perform Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times.
+*   Focus on the Task: Consciously redirect attention to the exam question at hand, minimizing distractions and focusing on the immediate task.
+
+**Action Plan (Long-term):**
+*   Practice Mindfulness Meditation: Regularly practice mindfulness exercises to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure adequate sleep duration and quality to support overall physiological recovery and resilience.",51.7724187374115
+S5,Midterm 2,77,"Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 113.3 bpm (avg)
+- Heart Rate Variability (RMSSD): 42.6 ms
+- Electrodermal Activity: 0.3756 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 28.22 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 77.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 113.3 bpm (avg)
+- Heart Rate Variability (RMSSD): 42.6 ms
+- Electrodermal Activity: 0.3756 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 28.22 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 77.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (113.3 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a less resilient physiological response, potentially indicating a high level of stress or anxiety.
+*   The low electrodermal activity (EDA) might indicate a lack of arousal or a non-reactive physiological state, which can sometimes be seen in high stress or even dissociation.
+
+**Risk Assessment:**
+*   Risk Level: High.
+*   Warning Signs: The combination of high heart rate and low heart rate variability points towards significant sympathetic nervous system overdrive, a hallmark of intense stress and anxiety, potentially impacting cognitive function and performance.
+
+**Action Plan (Immediate):**
+*   Perform Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times.
+*   Focus on the Task: Consciously redirect attention to the exam question at hand, minimizing distractions and focusing on the immediate task.
+
+**Action Plan (Long-term):**
+*   Practice Mindfulness Meditation: Regularly practice mindfulness exercises to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure adequate sleep duration and quality to support overall physiological recovery and resilience.",51.858505964279175
+S5,Final,157,"Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 95.4 bpm (avg)
+- Heart Rate Variability (RMSSD): 73.0 ms
+- Electrodermal Activity: 0.5420 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 30.19 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 157.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 95.4 bpm (avg)
+- Heart Rate Variability (RMSSD): 73.0 ms
+- Electrodermal Activity: 0.5420 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 30.19 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 157.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The heart rate (HR) of 95.4 bpm is elevated, indicating increased sympathetic nervous system activity.
+*   Heart rate variability (HRV) of 73.0 ms is low, suggesting a lack of adaptability and potential stress response.
+*   Electrodermal activity (EDA) of 0.5420 μS is low, indicating reduced physiological arousal.
+*   The overall biological state is one of heightened physiological arousal, consistent with stress.
+
+**Risk Assessment:**
+*   The combination of elevated HR and low HRV suggests a significant risk of performance impairment due to sympathetic overdrive.
+*   High risk.
+*   Warning signs include the elevated heart rate and low heart rate variability.
+
+**Action Plan (Immediate):**
+*   Practice box breathing (inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds) before the exam.
+*   Focus on the physical sensation of the breath, grounding yourself in the present moment.
+
+**Action Plan (Long-term):**
+*   Regularly practice mindfulness meditation to improve stress resilience and emotional regulation.
+*   Ensure adequate sleep and nutrition to support overall physiological well-being.",51.92237710952759
+S6,Midterm 1,71,"Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 107.0 bpm (avg)
+- Heart Rate Variability (RMSSD): 146.5 ms
+- Electrodermal Activity: 0.5924 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 27.98 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 71.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 107.0 bpm (avg)
+- Heart Rate Variability (RMSSD): 146.5 ms
+- Electrodermal Activity: 0.5924 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 27.98 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 71.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (107.0 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The relatively low heart rate variability (146.5 ms) suggests a lack of adaptability and a less resilient physiological response, potentially indicating a high level of stress.
+*   The low electrodermal activity (0.5924 μS) is consistent with a state of high stress, often associated with anxiety and a 'fight or flight' response.
+*   The body temperature (27.98 °C) is within the normal range, but can slightly increase during stress.
+
+**Risk Assessment:**
+*   **Risk Level:** High.
+*   **Warning Signs:** High heart rate and low heart rate variability signal significant sympathetic nervous system activation, indicating a high risk of performance decline and potential anxiety symptoms.
+
+**Action Plan (Immediate):**
+*   Practice Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times before the exam.
+*   Mindful Observation: Focus on the sensation of your feet on the floor or the feeling of the chair beneath you, grounding yourself in the present moment.
+
+**Action Plan (Long-term):**
+*   Regular Mindfulness Practice: Engage in daily mindfulness meditation or deep breathing exercises to improve stress regulation skills.
+*   Prioritize Sleep: Ensure consistent, adequate sleep (7-9 hours) to support overall physiological resilience.",51.84180808067322
+S6,Midterm 2,64,"Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 104.7 bpm (avg)
+- Heart Rate Variability (RMSSD): 94.0 ms
+- Electrodermal Activity: 0.2053 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.93 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 64.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 104.7 bpm (avg)
+- Heart Rate Variability (RMSSD): 94.0 ms
+- Electrodermal Activity: 0.2053 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.93 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 64.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The heart rate (HR) of 104.7 bpm is elevated, indicating increased sympathetic nervous system activity, a common response to stress.
+*   Heart rate variability (HRV) of 94.0 ms is relatively low, suggesting a lack of adaptability and potentially a state of stress-related autonomic dysregulation.
+*   Electrodermal activity (EDA) of 0.2053 μS is low, indicating a lack of physiological arousal, which can sometimes be associated with stress or relaxation, but in this context, it might also reflect a lack of engagement or focus.
+
+**Risk Assessment:**
+*   The combination of elevated HR and low HRV suggests a significant physiological stress response, indicating a **High Risk** for performance decline and potential anxiety symptoms.
+*   The low EDA might indicate a lack of focus or engagement, which could further impact performance.
+
+**Action Plan (Immediate):**
+*   Practice Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times.
+*   Focus on the Task: Consciously direct attention to the exam question at hand, minimizing distractions and engaging actively with the material.
+
+**Action Plan (Long-term):**
+*   Regular Mindfulness Practice: Engage in daily mindfulness meditation (5-10 minutes) to improve stress regulation and emotional awareness.
+*   Optimize Sleep Hygiene: Ensure consistent, high-quality sleep (7-9 hours) to support overall physiological recovery and resilience.",51.99106550216675
+S6,Final,175,"Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 103.9 bpm (avg)
+- Heart Rate Variability (RMSSD): 84.6 ms
+- Electrodermal Activity: 0.1297 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 27.05 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 175.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 103.9 bpm (avg)
+- Heart Rate Variability (RMSSD): 84.6 ms
+- Electrodermal Activity: 0.1297 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 27.05 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 175.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The heart rate (HR) of 103.9 bpm is elevated, indicating increased sympathetic nervous system activity.
+*   The heart rate variability (HRV) of 84.6 ms is low, suggesting a lack of adaptability and potential stress response.
+*   The electrodermal activity (EDA) of 0.1297 μS is low, indicating a lack of physiological arousal.
+*   The overall biological state is one of heightened sympathetic nervous system activation, potentially leading to anxiety or performance impairment.
+
+**Risk Assessment:**
+*   The combination of elevated HR and low HRV suggests a significant risk of performance decline due to stress.
+*   High HR + Low HRV = Sympathetic Overdrive.
+
+**Action Plan (Immediate):**
+*   Practice Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeat 4 times.
+*   Mindful Observation: Focus on the sensation of your feet on the floor, noticing the rise and fall without judgment.
+
+**Action Plan (Long-term):**
+*   Regular Mindfulness Practice: Engage in daily meditation or mindful exercises to build resilience.
+*   Prioritize Sleep: Ensure adequate sleep duration and quality to support overall physiological regulation.",52.05463004112244
+S7,Midterm 1,64,"Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 112.4 bpm (avg)
+- Heart Rate Variability (RMSSD): 181.8 ms
+- Electrodermal Activity: 0.1519 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 25.53 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 64.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 112.4 bpm (avg)
+- Heart Rate Variability (RMSSD): 181.8 ms
+- Electrodermal Activity: 0.1519 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 25.53 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 64.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (112.4 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a less resilient physiological response, potentially indicating a high level of stress or anxiety.
+*   The low electrodermal activity (EDA) might indicate a lack of arousal or a non-reactive physiological state, which can sometimes be seen in high stress or even dissociation.
+
+**Risk Assessment:**
+*   **Risk Level:** High.
+*   **Warning Signs:** High heart rate combined with low heart rate variability signals significant sympathetic nervous system overdrive, a hallmark of intense stress and anxiety.
+
+**Action Plan (Immediate):**
+*   Practice Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeat 4 times.
+*   Mindful Observation: Focus on the physical sensations of breathing without judgment, noticing the rise and fall of the chest or abdomen.
+
+**Action Plan (Long-term):**
+*   Regular Mindfulness Practice: Engage in daily mindfulness meditation to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure consistent, high-quality sleep to support overall physiological recovery and resilience.",52.03388977050781
+S7,Midterm 2,33,"Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 98.9 bpm (avg)
+- Heart Rate Variability (RMSSD): 102.7 ms
+- Electrodermal Activity: 0.2633 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 24.88 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 33.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 98.9 bpm (avg)
+- Heart Rate Variability (RMSSD): 102.7 ms
+- Electrodermal Activity: 0.2633 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 24.88 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 33.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The heart rate (HR) of 98.9 bpm is slightly elevated, indicating a state of alertness or mild activation.
+*   Heart rate variability (HRV) of 102.7 ms is within the lower end of the normal range, suggesting a potential lack of adaptability or a possible shift towards sympathetic dominance.
+*   Electrodermal activity (EDA) of 0.2633 μS is low, indicating a lack of physiological arousal or stress response.
+*   The overall biological state suggests a mild level of physiological stress, potentially related to the exam situation, but not yet reaching a state of significant distress.
+
+**Risk Assessment:**
+*   The combination of slightly elevated HR and low EDA, along with a potentially low HRV, points towards a potential shift towards sympathetic nervous system dominance, which can be a precursor to more significant stress responses.
+*   **Warning Sign:** The low EDA suggests a potential lack of physiological response to the stressor, which could indicate a higher risk of experiencing significant stress later if the situation persists or escalates.
+
+**Action Plan (Immediate):**
+*   Practice Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times.
+*   Focus on the Present Moment: Use mindfulness techniques like focusing on the sensation of feet on the floor or the sounds in the room to ground yourself in the current moment.
+
+**Action Plan (Long-term):**
+*   Regular Physical Activity: Engage in moderate exercise, such as brisk walking or yoga, several times a week to help manage stress levels.
+*   Prioritize Sleep: Ensure adequate sleep duration and quality to support overall physiological resilience.",52.10371947288513
+S7,Final,110,"Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 101.2 bpm (avg)
+- Heart Rate Variability (RMSSD): 95.0 ms
+- Electrodermal Activity: 0.2121 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 25.96 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 110.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 101.2 bpm (avg)
+- Heart Rate Variability (RMSSD): 95.0 ms
+- Electrodermal Activity: 0.2121 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 25.96 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 110.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (101.2 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for action.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a potential struggle to regulate the stress response, possibly indicating a state of heightened stress or anxiety.
+*   The low electrodermal activity (0.2121 μS) is consistent with a state of low arousal or potentially a non-specific response to stress, though it can also be seen in anxiety.
+*   The overall physiological state is one of heightened sympathetic activation, potentially indicative of stress or anxiety, despite the relatively normal body temperature.
+
+**Risk Assessment:**
+*   **Risk Level:** High.
+*   **Warning Signs:** The combination of elevated heart rate and low heart rate variability points towards a significant risk of performance decline due to stress and potential sympathetic overdrive.
+
+**Action Plan (Immediate):**
+*   Practice Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times before the exam.
+*   Mindful Observation: Focus on the physical sensations of breathing without judgment, noticing the rise and fall of the chest or abdomen, to ground yourself in the present moment.
+
+**Action Plan (Long-term):**
+*   Regular Mindfulness Practice: Engage in daily mindfulness meditation (5-10 minutes) to improve stress regulation and emotional awareness.
+*   Healthy Lifestyle Habits: Prioritize adequate sleep, regular physical activity, and a balanced diet to support overall physiological resilience.",51.90303707122803
+S8,Midterm 1,92,"Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 113.7 bpm (avg)
+- Heart Rate Variability (RMSSD): 116.8 ms
+- Electrodermal Activity: 0.4206 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 27.07 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 92.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 113.7 bpm (avg)
+- Heart Rate Variability (RMSSD): 116.8 ms
+- Electrodermal Activity: 0.4206 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 27.07 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 92.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (113.7 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a less resilient physiological response, potentially indicating a high level of stress or anxiety.
+*   The low electrodermal activity (EDA) might indicate a lack of arousal or a non-reactive physiological state, which can sometimes be seen in high stress or even dissociation.
+
+**Risk Assessment:**
+*   **Risk Level:** High.
+*   **Warning Signs:** The combination of high heart rate and low heart rate variability points towards significant sympathetic nervous system overdrive, a hallmark of intense stress and anxiety, potentially impacting cognitive function and performance.
+
+**Action Plan (Immediate):**
+*   Perform Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times.
+*   Focus on the Task: Consciously redirect attention to the exam question at hand, minimizing distractions and focusing on the immediate task.
+
+**Action Plan (Long-term):**
+*   Practice Mindfulness Meditation: Regularly engage in short mindfulness exercises to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure adequate sleep duration and quality to support overall physiological recovery and resilience.",51.90618324279785
+S8,Midterm 2,88,"Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 102.7 bpm (avg)
+- Heart Rate Variability (RMSSD): 101.4 ms
+- Electrodermal Activity: 0.1087 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 28.51 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 88.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 102.7 bpm (avg)
+- Heart Rate Variability (RMSSD): 101.4 ms
+- Electrodermal Activity: 0.1087 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 28.51 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 88.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The heart rate (HR) of 102.7 bpm is elevated, indicating increased sympathetic nervous system activity.
+*   Heart rate variability (HRV) of 101.4 ms is low, suggesting a lack of adaptability and potential stress response.
+*   Electrodermal activity (EDA) of 0.1087 μS is low, indicating a lack of physiological arousal.
+*   The overall biological state is one of heightened sympathetic nervous system activation, potentially leading to anxiety or stress.
+
+**Risk Assessment:**
+*   The combination of elevated HR and low HRV suggests a significant risk of experiencing stress-related symptoms during the exam.
+*   High HR + Low HRV = Sympathetic Overdrive.
+
+**Action Plan (Immediate):**
+*   Practice Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeat 4 times.
+*   Mindful Observation: Focus on the physical sensations of breathing without judgment, noticing the rise and fall of the chest or abdomen.
+
+**Action Plan (Long-term):**
+*   Regular Physical Activity: Engage in moderate exercise like brisk walking or yoga to help manage stress levels.
+*   Mindfulness Practice: Incorporate daily mindfulness meditation to improve focus and emotional regulation.",51.906354904174805
+S8,Final,184,"Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 102.2 bpm (avg)
+- Heart Rate Variability (RMSSD): 105.0 ms
+- Electrodermal Activity: 0.5342 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 29.27 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 184.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 102.2 bpm (avg)
+- Heart Rate Variability (RMSSD): 105.0 ms
+- Electrodermal Activity: 0.5342 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 29.27 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 184.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The heart rate (HR) of 102.2 bpm is elevated, indicating increased sympathetic nervous system activity.
+*   Heart rate variability (HRV) of 105.0 ms is low, suggesting a lack of adaptability and potential stress response.
+*   Electrodermal activity (EDA) of 0.5342 μS is low, indicating reduced physiological arousal.
+*   The overall biological state is one of heightened physiological arousal, consistent with stress.
+
+**Risk Assessment:**
+*   The combination of elevated HR and low HRV suggests a significant risk of performance decline due to sympathetic overdrive.
+*   High risk.
+*   Warning signs include: Elevated heart rate and low heart rate variability.
+
+**Action Plan (Immediate):**
+*   Practice Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeat 4 times.
+*   Mindful Observation: Focus on the sensation of the feet on the floor, noticing the rise and fall without judgment.
+
+**Action Plan (Long-term):**
+*   Regular Mindfulness Practice: Engage in daily meditation or mindful exercises to improve stress regulation.
+*   Prioritize Sleep: Ensure adequate sleep duration and quality to support overall physiological resilience.",51.842360734939575
+S9,Midterm 1,80,"Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 108.4 bpm (avg)
+- Heart Rate Variability (RMSSD): 179.0 ms
+- Electrodermal Activity: 0.1664 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.37 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 80.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 1):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 108.4 bpm (avg)
+- Heart Rate Variability (RMSSD): 179.0 ms
+- Electrodermal Activity: 0.1664 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 26.37 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 80.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The elevated heart rate (108.4 bpm) indicates increased sympathetic nervous system activity, suggesting the body is preparing for 'fight or flight'.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a less resilient physiological response, potentially indicating a high level of stress or anxiety.
+*   The low electrodermal activity (EDA) might indicate a lack of arousal or a non-reactive physiological state, which can sometimes be seen in high stress or even dissociation.
+
+**Risk Assessment:**
+*   Risk Level: High.
+*   Warning Signs: The combination of high heart rate and low heart rate variability points towards significant sympathetic nervous system overdrive, a hallmark of high stress and potential anxiety.
+
+**Action Plan (Immediate):**
+*   Perform Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeat 4 times.
+*   Focus on the Present: Consciously redirect attention to the immediate task at hand, avoiding dwelling on performance or past/future worries.
+
+**Action Plan (Long-term):**
+*   Practice Mindfulness Meditation: Regularly engage in short mindfulness exercises to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure consistent, adequate sleep to support overall physiological recovery and resilience.",52.04385471343994
+S9,Midterm 2,39,"Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 103.1 bpm (avg)
+- Heart Rate Variability (RMSSD): 86.3 ms
+- Electrodermal Activity: 0.3167 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 27.86 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 39.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Midterm 2):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 103.1 bpm (avg)
+- Heart Rate Variability (RMSSD): 86.3 ms
+- Electrodermal Activity: 0.3167 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 27.86 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 39.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The heart rate (HR) of 103.1 bpm is elevated, indicating increased sympathetic nervous system activity.
+*   The low heart rate variability (RMSSD) suggests a lack of adaptability and a potential struggle to regulate the stress response.
+*   The low electrodermal activity (EDA) might indicate a lack of physiological arousal or potentially a non-specific response.
+
+**Risk Assessment:**
+*   The combination of elevated HR and low HRV points towards a significant physiological stress response, indicating a high risk of performance impairment and potential anxiety symptoms.
+*   The elevated heart rate is a clear warning sign of sympathetic overdrive.
+
+**Action Plan (Immediate):**
+*   Practice box breathing (inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds) before the exam to help regulate breathing and heart rate.
+*   Focus on the task at hand, take short breaks every 10-15 minutes, and consciously redirect attention away from performance anxiety.
+
+**Action Plan (Long-term):**
+*   Regularly practice mindfulness or meditation techniques to improve stress regulation and emotional resilience.
+*   Ensure adequate sleep, nutrition, and physical activity to support overall physiological well-being and stress management capacity.",51.77241253852844
+S9,Final,126,"Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 86.7 bpm (avg)
+- Heart Rate Variability (RMSSD): 83.9 ms
+- Electrodermal Activity: 0.4012 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 30.81 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 126.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change","Task: Analyze the following physiological stress data from a student during an exam.
+
+Student Stress Profile during Exam (Final):
+
+Physiological Indicators (First 15 minutes):
+- Heart Rate: 86.7 bpm (avg)
+- Heart Rate Variability (RMSSD): 83.9 ms
+- Electrodermal Activity: 0.4012 μS
+- Skin Conductance Responses: N/A per minute
+- Body Temperature: 30.81 °C
+
+Stress Assessment:
+- Composite Stress Score: N/A
+- Stress Category: Unknown
+- Exam Performance: 126.0/100
+
+Temporal Patterns:
+- HR Trend (0-15 min): N/A% change
+- EDA Trend (0-15 min): N/A% change
+
+OUTPUT INSTRUCTIONS:
+- Role: Expert Clinical Psychologist.
+- Format: Bullet points only. No introductory filler. No concluding remarks.
+- Tone: Direct, Actionable, Empathetic.
+- Length: Max 2 sentences per bullet.
+
+REQUIRED SECTIONS:
+1. **Clinical Interpretation**: Briefly explain the key physiological signals (HR, HRV, EDA). What is the biological state?
+2. **Risk Assessment**: High, Medium, or Low risk? Flag specific warning signs (e.g., ""High HR + Low HRV = Sympathetic Overdrive"").
+3. **Action Plan (Immediate)**: List 2 specific techniques for *during* the exam (e.g., Box Breathing).
+4. **Action Plan (Long-term)**: List 2 lifestyle or cognitive strategies for *between* exams.","**Clinical Interpretation:**
+*   The heart rate (HR) is slightly elevated at 86.7 bpm, indicating a mild increase in sympathetic nervous system activity.
+*   Heart rate variability (HRV) of 83.9 ms is within the lower range of normal, suggesting a potential lack of adaptability or a possible shift towards sympathetic dominance.
+*   Electrodermal activity (EDA) is low at 0.4012 μS, indicating a low level of physiological arousal.
+*   The overall biological state suggests a mild level of physiological stress, potentially related to the exam situation.
+
+**Risk Assessment:**
+*   Risk Level: Low.
+*   Warning Signs: The combination of slightly elevated HR and low HRV may indicate a potential shift towards sympathetic dominance, which could be a warning sign for increased stress levels if sustained.
+
+**Action Plan (Immediate):**
+*   Perform Box Breathing: Inhale for 4 seconds, hold for 4 seconds, exhale for 4 seconds, hold for 4 seconds, repeating the cycle 3-5 times.
+*   Focus on the Present: Consciously redirect attention to the immediate task at hand, avoiding dwelling on past performance or future worries.
+
+**Action Plan (Long-term):**
+*   Practice Mindfulness Meditation: Engage in regular mindfulness practice (e.g., 10-15 minutes daily) to improve stress regulation and emotional awareness.
+*   Prioritize Sleep: Ensure adequate sleep (7-9 hours) to support overall physiological resilience and cognitive function.",51.74405574798584
